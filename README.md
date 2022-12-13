@@ -1,21 +1,32 @@
-- 👋 Hi, I’m Rajat. Currently working as sofware developer
-- 👀 I’m interested in anything fun. 
-- 🌱 I’m currently learning Java and springboot framework. Still trying to  learn as much as possible
-- 💞️ I’m looking to collaborate on anything. If you got anything interesting, hit me up.
-- 📫 Reach me on LinkedIn. [Rajat Aggarwal](https://www.linkedin.com/in/rajataggarwal2603/)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rajat Aggarwal
+======================================================================================================================================
 
-## Contact
+* 🌍  I'm based in India
+* ✉️  You can contact me at [rajataggarwal2603@gmail.com](mailto:rajataggarwal2603@gmail.com)
+* 🤝  I'm open to collaborating on anything interesting, HMU
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white)](https://github.com/rajat-8)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/frank-jogeleit-a9a91bb9/)](https://www.linkedin.com/in/rajataggarwal2603/)
+### Skills
 
-## Statistics
 
-[![Franks github stats](https://github-readme-stats.vercel.app/api?username=rajat-8&show_icons=true&theme=dark)](https://github.com/rajat-8)
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
 
-[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajat-8&hide=html&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=rajat-8&hide=html&layout=compact&theme=dark)
 
-<!---
-rajat-8/rajat-8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Socials
+
+<p align="left"> <a href="https://www.github.com/rajat-8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rajataggarwal2603/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@rajataggarwal2603" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/rajat-8"><img src="https://github-readme-stats.vercel.app/api?username=rajat-8&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rajat-8's GitHub stats" /></a>
+
+<a href="http://www.github.com/rajat-8"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rajat-8&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/rajat-8" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat-8&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
